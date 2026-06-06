@@ -30,4 +30,4 @@ Information Technology student at Inholland University of Applied Sciences with 
 💼 LinkedIn: https://www.linkedin.com/in/nishchal-bhujel-817a24404
 
 
-💼 LinkedIn: [Your LinkedIn URL]
+
