@@ -20,8 +20,6 @@ Information Technology student at Inholland University of Applied Sciences with 
 
 🎓 HBO Information Technology Student
 
-🔍 Seeking a Software Development Internship starting September 2026
-
 🌱 Interested in Full-Stack Development, Backend Development, and AI-driven applications
 
 ## Contact
